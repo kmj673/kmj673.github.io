@@ -1,0 +1,29 @@
+h1 {
+  font-size: 150px;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 0px;
+  border: 10px solid blue;
+}
+
+.question {
+  font-size: 30px;
+  text-align: center;
+
+  border: 10px solid;
+}
+
+.question > div {
+  display: inline-block;
+}
+
+.login {
+  font-size: 30px;
+  text-align: center;
+
+  border: 10px solid red;
+}
+
+.login > div {
+  display: inline-block;
+}
