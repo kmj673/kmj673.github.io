@@ -1,2 +1,3 @@
-#question {
+.questionBox {
+  display: flex;
 }
