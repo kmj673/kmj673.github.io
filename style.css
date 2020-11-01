@@ -1,4 +1,4 @@
 .questionBox {
   display: flex;
-  background-color: blue;
+  flex-direction: column;
 }
